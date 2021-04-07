@@ -1,8 +1,8 @@
 # Coding Master 
 ## 풀잎스쿨 - 파이썬 코딩 공부!
 - Python_basic  : 풀잎스쿨 파이썬 기초 공부 
-<details>
-<summary> python_300 : [python300제](https://wikidocs.net/7014) - 매주 60문제씩 풀기! </summary>
+
+ - python_300 : [python300제](https://wikidocs.net/7014) - 매주 60문제씩 풀기! 
     - [Python_0](https://github.com/AIFFEL-CodingMaster/Sangmee/blob/main/python_300/Python_300.ipynb) : 파이썬 시작/변수(01-20)  
       
     - [Python_1](https://github.com/AIFFEL-CodingMaster/Sangmee/blob/main/python_300/Python_300_1.ipynb) : 파이썬 문자열(21-50)  
